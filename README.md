@@ -10,7 +10,7 @@
 
 ## Heroku URLs
 
-[Heroku](https://github.com/ibrahimAbuawad/CAPS/actions)
+[Heroku](https://ibrahim-caps.herokuapp.com)
 
 ### UML
 
