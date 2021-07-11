@@ -1,0 +1,29 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vendor.js",
+  "scripts": {
+    "start": "node vendor.js",
+    "test": "jest --coverage --verbose",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimAbuawad/CAPS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimAbuawad/CAPS/issues"
+  },
+  "homepage": "https://github.com/IbrahimAbuawad/CAPS#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6",
+    "supertest": "^6.1.3"
+  }
+}
